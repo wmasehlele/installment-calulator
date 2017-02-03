@@ -1,2 +1,2 @@
 # installment-calulator
-A basic installment calculator in java
+A basic loan installment calculator in java
